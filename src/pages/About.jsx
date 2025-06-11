@@ -137,12 +137,6 @@ const About = () => {
                       ? "Spacious and comfortable for families"
                       : "Premium luxury travel experience"}
                   </p>
-                  <div className="flex items-center text-[#2BBED6] group-hover:text-[#F7A62B] transition-colors">
-                    <span className="text-xs font-medium tracking-wide">
-                      VIEW DETAILS
-                    </span>
-                    <FaChevronRight className="ml-2 text-xs" />
-                  </div>
                 </div>
               </motion.div>
             ))}

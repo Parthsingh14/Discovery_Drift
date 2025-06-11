@@ -19,10 +19,10 @@ const About = () => {
   };
 
   const hotelRooms = [
-    { name: "GK2", image: room1 },
+    { name: "GK2", image: room4 },
     { name: "Nehru Place", image: room2 },
     { name: "Mahipalpur", image: room3 },
-    { name: "Paharganj", image: room4 },
+    { name: "Paharganj", image: room1 },
   ];
 
   return (
